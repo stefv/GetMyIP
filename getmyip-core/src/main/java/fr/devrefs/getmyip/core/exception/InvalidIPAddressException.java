@@ -27,7 +27,9 @@ public class InvalidIPAddressException extends GetMyIPAddressException {
 	private static final long serialVersionUID = 5484816548984747417L;
 
 	/**
-	 * @param message
+	 * Create the exception with the given IP address.
+	 * 
+	 * @param ipAddress The IP address.
 	 */
 	public InvalidIPAddressException(final String ipAddress) {
 		super("Invalid IP address: " + ipAddress);

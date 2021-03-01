@@ -28,6 +28,7 @@ public class IPInfo {
 
 	/**
 	 * Creates the object with the IP address.
+	 * @param ipAddress The {@link InetAddress} for this IP.
 	 */
 	public IPInfo(final InetAddress ipAddress) {
 		this.ipAddress = ipAddress;
