@@ -1,6 +1,6 @@
 # GetMyIP
 
-Read this in [English](README.md).
+_Read this in [English](README.md)._
 
 Ce petit framework Java est utilisé pour retrouver l'adresse IP publique de votre réseau.
 Il utilise the service [ipify API](https://www.ipify.org/) pour récupérer l'IP.
