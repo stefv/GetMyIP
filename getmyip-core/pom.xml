@@ -5,7 +5,7 @@
 
 	<groupId>fr.devrefs.getmyip</groupId>
 	<artifactId>getmyip-core</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.4</version>
 
 	<name>getmyip-core</name>
 	<description>A simple framework to get the public IP address.</description>
@@ -31,7 +31,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/stefv/GetMyIP.git</connection>
 		<developerConnection>scm:git:https://github.com/stefv/GetMyIP.git</developerConnection>
-		<tag>head</tag>
+		<tag>getmyip-core-0.0.4</tag>
 	</scm>
 
 	<properties>
